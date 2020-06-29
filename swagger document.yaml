@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  description: About customers and accounts endpoints
+  description: About customers and accounts endpoints.
   version: 1.0.0
   title: Swagger document
 tags:
